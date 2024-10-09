@@ -1,3 +1,9 @@
+THE BUILD FOR THE GAME CAN BE FOUND IN THE "Build" FOLDER. IT IS BUILT ONLY FOR WINDOWS.
+
+
+
+
+
 The scene layout is just one section of a level of ice climbers. Nana and Popo are to the right, on a ledge with a moving cloud in the middle, and some icy floors.
 
 
@@ -6,7 +12,7 @@ My Toon shader is called CelShading.shader, and is on the cloud.
 
 	i do this because it is a dynamic element in the scene, and thus the shading changes on them based on how 	it is moving, compared to the walls and floors which would remain statically coloured.
 
-Colour Grading is implemented, but i had issues changing it to cooler colours. i am just using the default LUT given in week 5's  lecture. It also doesn't look that great with my Ice shader i made, so i kept the contribution value low. 
+Colour Grading is implemented in the ColourGrading.Shader file, but i had issues changing it to cooler colours. i am just using the default LUT given in week 5's  lecture. It also doesn't look that great with my Ice shader i made, so i kept the contribution value low. 
 
 For my personal shader, i made an Ice shader in Shadergraph. It is pretty simple:
 
