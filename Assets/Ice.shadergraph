@@ -83,7 +83,17 @@
         }
     ],
     "m_GroupDatas": [],
-    "m_StickyNoteDatas": [],
+    "m_StickyNoteDatas": [
+        {
+            "m_Id": "36fb308e47324cce8bdce1f429fdca56"
+        },
+        {
+            "m_Id": "5f13e7ba2ce740feaaff89b11fadda69"
+        },
+        {
+            "m_Id": "2338cff85c384c7b8b494e04261bfbbb"
+        }
+    ],
     "m_Edges": [
         {
             "m_OutputSlot": {
@@ -525,6 +535,26 @@
 
 {
     "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
+    "m_ObjectId": "2338cff85c384c7b8b494e04261bfbbb",
+    "m_Title": "spec and metallic parameters",
+    "m_Content": "Write something here",
+    "m_TextSize": 0,
+    "m_Theme": 0,
+    "m_Position": {
+        "serializedVersion": "2",
+        "x": -104.66667175292969,
+        "y": 532.6666259765625,
+        "width": 291.77069091796877,
+        "height": 251.77069091796876
+    },
+    "m_Group": {
+        "m_Id": ""
+    }
+}
+
+{
+    "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.Vector2MaterialSlot",
     "m_ObjectId": "29cf2a274f064ceb934d919c9731e01e",
     "m_Id": 2,
@@ -630,6 +660,26 @@
 
 {
     "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
+    "m_ObjectId": "36fb308e47324cce8bdce1f429fdca56",
+    "m_Title": "Get y position and use it for colour gradient",
+    "m_Content": "Write something here",
+    "m_TextSize": 0,
+    "m_Theme": 0,
+    "m_Position": {
+        "serializedVersion": "2",
+        "x": -1460.666748046875,
+        "y": 154.66665649414063,
+        "width": 1073.1981201171875,
+        "height": 702.9825439453125
+    },
+    "m_Group": {
+        "m_Id": ""
+    }
+}
+
+{
+    "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.NormalMaterialSlot",
     "m_ObjectId": "431a576a19a44c289aac3a941b0483a6",
     "m_Id": 0,
@@ -664,10 +714,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -535.3333129882813,
-            "y": 919.3333740234375,
+            "x": -634.6666259765625,
+            "y": 1170.0,
             "width": 209.33331298828126,
-            "height": 328.0
+            "height": 328.0001220703125
         }
     },
     "m_Slots": [
@@ -933,6 +983,26 @@
     "m_ObjectId": "5eb17808a81c40b1a0a09b206679db47",
     "m_WorkflowMode": 1,
     "m_NormalDropOffSpace": 0
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
+    "m_ObjectId": "5f13e7ba2ce740feaaff89b11fadda69",
+    "m_Title": "Create noise texture for the alpha of the ice",
+    "m_Content": "Write something here",
+    "m_TextSize": 0,
+    "m_Theme": 0,
+    "m_Position": {
+        "serializedVersion": "2",
+        "x": -954.0,
+        "y": 970.0,
+        "width": 1195.207275390625,
+        "height": 540.2822875976563
+    },
+    "m_Group": {
+        "m_Id": ""
+    }
 }
 
 {
@@ -1580,9 +1650,9 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -258.0000305175781,
-            "y": 838.0,
-            "width": 209.33335876464845,
+            "x": -357.3332824707031,
+            "y": 1088.666748046875,
+            "width": 209.3332977294922,
             "height": 304.0
         }
     },
@@ -1835,10 +1905,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -257.5348205566406,
-            "y": 527.2366333007813,
-            "width": 0.0,
-            "height": 0.0
+            "x": -4.66668701171875,
+            "y": 725.3333129882813,
+            "width": 96.66663360595703,
+            "height": 36.0
         }
     },
     "m_Slots": [
@@ -2037,10 +2107,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -535.3333129882813,
-            "y": 718.0000610351563,
-            "width": 148.66665649414063,
-            "height": 119.99993896484375
+            "x": -499.9999694824219,
+            "y": 1050.0,
+            "width": 148.6666259765625,
+            "height": 120.0
         }
     },
     "m_Slots": [
@@ -2132,10 +2202,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -325.9742126464844,
-            "y": 421.2823791503906,
-            "width": 0.0,
-            "height": 0.0
+            "x": 43.99995040893555,
+            "y": 562.6666259765625,
+            "width": 103.33341979980469,
+            "height": 36.0
         }
     },
     "m_Slots": [
@@ -2182,10 +2252,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 77.87297058105469,
-            "y": 881.2762451171875,
-            "width": 0.0,
-            "height": 0.0
+            "x": -21.999897003173829,
+            "y": 1131.3333740234375,
+            "width": 209.3331756591797,
+            "height": 328.0
         }
     },
     "m_Slots": [
